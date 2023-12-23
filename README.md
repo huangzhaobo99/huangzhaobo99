@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning the Hadoop system.
 <!--
 **huangzhaobo99/huangzhaobo99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
